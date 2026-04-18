@@ -1,0 +1,25 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vineford</title>
+</head>
+<body style="background:black; color:white; text-align:center; font-family:sans-serif;">
+
+<h1>VINEFORD</h1>
+<p>Digital Investigation & Recovery Support</p>
+
+<a href="mailto:Vineford.net@gmail.com">
+  <button>🚨 Scam Case Review</button>
+</a>
+
+<a href="mailto:Vineford.net@gmail.com">
+  <button>₿ Crypto Tracing Support</button>
+</a>
+
+<a href="mailto:Vineford.net@gmail.com">
+  <button>🔐 Account Recovery</button>
+</a>
+
+</body>
+</html>
